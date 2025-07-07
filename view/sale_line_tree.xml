@@ -1,0 +1,5 @@
+<data>
+    <xpath expr="/tree/field[@name='product']" position="before">
+        <field name="number"/>
+    </xpath>
+</data>

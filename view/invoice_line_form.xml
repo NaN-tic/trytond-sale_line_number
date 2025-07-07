@@ -1,0 +1,7 @@
+<data>
+    <xpath expr="//label[@name='product']" position="before">
+        <label name="number"/>
+        <field name="number"/>
+        <newline/>
+    </xpath>
+</data>
